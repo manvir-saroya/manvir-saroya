@@ -4,4 +4,4 @@ I'm an EECS Ph.D. student at UC Merced working on power electronics: wireless ch
 
 Outside the lab I build small tools, like [Cooldown](https://github.com/manvir-saroya/cooldown-app), which shows how much of your AI coding limits you've used and when they reset.
 
-manvirsingh@ucmerced.edu · manvirsaroya@gmail.com · [LinkedIn](https://www.linkedin.com/in/manvir-singh-a417361b6)
+manvirsingh@ucmerced.edu · [LinkedIn](https://www.linkedin.com/in/manvir-singh-a417361b6)
